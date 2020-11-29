@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 *.log
 *.ipynb
+content/*
+!content/.gitkeep
